@@ -1,0 +1,22 @@
+{
+    "Semua": "Semua",
+    "Debian": [
+      {"key": 1, "cat": "Debian", "title": "Struktur Direktori Linux"},
+      {"key": 2, "cat": "Debian", "title": "Perintah Dasar Linux"},
+      {"key": 3, "cat": "Debian", "title": "Manajemen User & Group Linux"},
+      {"key": 4, "cat": "Debian", "title": "Text Editor Linux"},
+      {"key": 5, "cat": "Debian", "title": "Konfigurasi IP Address"},
+      {"key": 6, "cat": "Debian", "title": "Konfigurasi Hostname"},
+      {"key": 7, "cat": "Debian", "title": "Konfigurasi Repository"},
+      {"key": 8, "cat": "Debian", "title": "Konfigurasi Remote Access SSH"},
+      {"key": 9, "cat": "Debian", "title": "Konfigurasi Remote Access Telnet"},
+      {"key": 10, "cat": "Debian", "title": "Konfigurasi DNS Server"},
+      {"key": 11, "cat": "Debian", "title": "Konfigurasi Web Server"},
+      {"key": 12, "cat": "Debian", "title": "Konfigurasi FTP Server"},
+      {"key": 13, "cat": "Debian", "title": "Konfigurasi NTP Server"},
+      {"key": 14, "cat": "Debian", "title": "Konfigurasi DHCP Server"}
+    ],
+    "Cisco": [
+      {"key": 0, "title": "Segera..."}
+    ]
+}

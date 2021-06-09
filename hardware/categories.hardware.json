@@ -1,0 +1,17 @@
+{
+    "Semua": "Semua",
+    "Dasar" : [
+      {"key": 1, "cat":"Dasar", "title": "Komponen Dasar Komputer"}
+    ],
+    "Motherboard": [
+      {"key": 1, "cat":"Motherboard", "title": "Front Panel"}
+      
+    ],
+    "Kabel": [
+      {"key": 1, "cat":"Kabel", "title": "Jenis Kabel Jaringan"},
+      {"key": 2, "cat":"Kabel", "title": "Urutan Kabel UTP"}
+    ],
+    "Troubleshoot": [
+      {"key": 1, "cat":"Troubleshoot", "title": "Bunyi BIOS"}
+    ]
+}
